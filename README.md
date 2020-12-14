@@ -2,9 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<title>Ma première page web</title>
-</head>
 <body>
 <div style="margin:auto; display:flex; flex-direction:column; height:800px; max-width:800px">
     <iframe border="0" src="https://crosswordlabs.com/embed/2020-12-14-349" style="flex:1; width:100%; padding:5px 0px 0 5px; border:3px solid black; "></iframe>
